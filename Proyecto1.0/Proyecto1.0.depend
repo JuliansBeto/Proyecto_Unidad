@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1537146739 source:c:\users\fernando\desktop\proyecto1.0\main.cpp
+	<iostream>
+	<fstream>
+	"DATOS.h"
+	<string.h  >
+
+1537146319 c:\users\fernando\desktop\proyecto1.0\include\datos.h
+	<istream>
+	<string.h>
+	<string>
+	<iostream>
+	<conio.h>
+
+1537146739 source:c:\users\fernando\desktop\luis fernando nahuat alcocer\proyecto1.0\main.cpp
+	<iostream>
+	<fstream>
+	"DATOS.h"
+	<string.h  >
+
+1537146319 c:\users\fernando\desktop\luis fernando nahuat alcocer\proyecto1.0\include\datos.h
+	<istream>
+	<string.h>
+	<string>
+	<iostream>
+	<conio.h>
+
+1537146740 source:e:\proyecto1.0\main.cpp
+	<iostream>
+	<fstream>
+	"DATOS.h"
+	<string.h  >
+
+1537146320 e:\proyecto1.0\include\datos.h
+	<istream>
+	<string.h>
+	<string>
+	<iostream>
+	<conio.h>
+
